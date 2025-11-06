@@ -113,12 +113,11 @@ MESSAGE_TAGS = {
 RAZORPAY_KEY_ID = 'rzp_test_RbYLCxcNBKQhu9'
 RAZORPAY_KEY_SECRET = 'iCinkRsOx54MrxHp04ktb1l9'
 
-# ALLOWED_HOSTS = [
-#     'giithubb-production.up.railway.app',
-#     'localhost',
-#     '127.0.0.1'
-# ]
+ALLOWED_HOSTS = [
+    'giithubb-production.up.railway.app',
+    'localhost',
+    '127.0.0.1'
+]
 
 
-ALLOWED_HOSTS = ['*']
 
