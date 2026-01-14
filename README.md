@@ -71,19 +71,7 @@ Below is a walkthrough of the E-commerce website, showcasing UI, navigation, and
 
 
 (![project_demo_lightweight](https://github.com/user-attachments/assets/0aae3d4d-5822-45c5-9d7c-fc9eb1d040d2)
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/d83be569-4fcb-4404-aea1-46c67b4cf1f0" />
-
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/5eb68de7-644a-47a9-bcfa-c2cb2b1a123e" />
-
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/f3c86bbc-aab8-43b2-adab-242eb2b55f08" />
-
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/e0a9f427-b780-40ba-a7a3-a7012fd60f01" />
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/34519f59-d336-4f29-b9ff-6298602e397d" />
-
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/1f983c3b-284b-4796-baa1-99181c2a0f52" />
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/d0002bb2-99ad-4c92-bec7-da1c96b0358d" />
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/1599a6e8-5421-4301-ae15-5abec4c7c56f" />
-<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/bbf1feb4-1ee3-4dc2-b9e0-5fb2d7dead6f" />
+<img width="1920" height="1080" alt="Screenshot (1145)" src="https://github.com/user-attachments/assets/67612066-9c1a-4c8f-8773-c3d9658f8d6f" />
 
 ---
 
