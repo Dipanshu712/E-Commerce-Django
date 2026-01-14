@@ -69,7 +69,8 @@ Below is a walkthrough of the E-commerce website, showcasing UI, navigation, and
 
 ## 🖼️ Project Demo
 
-![Project Demo](project_demo_lightweight.gif)
+
+![Project Demo](![project_demo_lightweight](https://github.com/user-attachments/assets/0aae3d4d-5822-45c5-9d7c-fc9eb1d040d2)
 
 ---
 
