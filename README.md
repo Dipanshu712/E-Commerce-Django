@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (1153)" src="https://github.com/user-attachments/assets/62bb456b-6624-4a88-a665-f25c5de910be" />
 
 # 🛒 E-Commerce Website using Django (with Razorpay Payment)
 
@@ -88,7 +87,9 @@ Below is a walkthrough of the E-commerce website, showcasing UI, navigation, and
 <img width="1920" height="1080" alt="Screenshot (1153)" src="https://github.com/user-attachments/assets/497fea29-dd10-4133-bd12-327e6b49532e" />
 
 <img width="1920" height="1080" alt="Screenshot (1154)" src="https://github.com/user-attachments/assets/e6c5c037-e17c-4c37-a35d-f86b9a6cdee9" />
+<img width="1920" height="1080" alt="Screenshot (1155)" src="https://github.com/user-attachments/assets/3843e750-f7a4-49a1-8e84-ea917efbc2e9" />
 
+<img width="1920" height="1080" alt="Screenshot (1156)" src="https://github.com/user-attachments/assets/720be392-ae75-4d50-8006-894ef95173ec" />
 
 
 
